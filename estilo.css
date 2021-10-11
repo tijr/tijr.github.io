@@ -3,14 +3,14 @@ margin:0;
 
 
 #topo{
- width:100%;
+ width:900px;
   height:200px;
-  background:green;
+  background:red;
 }
 
 
 #conteudo{
-  width:100%;
+  width:900px;
   height:800px;
   background:red;
 } 
