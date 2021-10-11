@@ -1,7 +1,0 @@
-<?php
-
-
-echo "Ola Mundo!!";
-
-
-?>
