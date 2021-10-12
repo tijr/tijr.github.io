@@ -7,6 +7,14 @@ body{
 background:red;
 }
 
+#texto{
+width:600px;
+height:900px;
+background:orange;
+	
+}
+
+
 #contener{
 align-items: center;
  margin-left: auto;
