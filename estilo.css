@@ -10,7 +10,7 @@ height:200px;
 
 background: linear-gradient(to right, #29323c, #485563);
 
-border: 2px black;
+border: solid 2px black;
  box-shadow: 5px 5px 10px black;
 }
 
