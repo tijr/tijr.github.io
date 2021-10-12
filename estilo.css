@@ -8,12 +8,12 @@ background:snow;
 }
 
 #texto{
-width:600px;
+width:1000px;
 height:900px;
-background:orange;
-border: solid 2px black;
+background:aliceblue;
+ 
 margin: 0 auto;	
-	float:left;
+	 
 }
 
 
