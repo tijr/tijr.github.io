@@ -11,7 +11,7 @@ height:200px;
 background: linear-gradient(to right, #29323c, #485563);
 
 border: solid 2px black;
- box-shadow: 20px 20px 30px red;
+ box-shadow: 20px 20px 10px red;
 }
 
 
@@ -28,7 +28,7 @@ height:800px;
   height:100px;
   background:#4f4f4f;
  border: 2px black;
- box-shadow: 20px 20px 30px red;
+ box-shadow: 20px 20px 10px red;
 } 
   
   
