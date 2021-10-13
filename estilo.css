@@ -26,7 +26,7 @@ align-items: center;
 #topo{
 
 
-box-shadow: 5px 5px 7px silver;
+box-shadow: 5px 5px 5px silver;
 
 
 
@@ -57,11 +57,12 @@ height:800px;
   background:#4f4f4f;
  border: 2px black;
  align-items: center;
-box-shadow: -5px -5px 7px silver;
+box-shadow: -5px -5px 5px silver;
 } 
 
 .logo{
 margin-left:50px;	
+margin-top: 20px;	
 }
   
   
