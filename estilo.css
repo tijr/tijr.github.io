@@ -8,7 +8,7 @@ body{
 }
 
 #texto{
-width:100%;
+width:600px;
 height:900px;
 text-align: justify;
 margin: 0 auto;	
@@ -69,10 +69,7 @@ margin-top: 25px;
 }
   
 p{
-line-height: 20px;
-text-align: justify;
-	
-width:600px
+ align-items: center;
 }
   
   
