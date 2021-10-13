@@ -4,7 +4,7 @@ padding:0;
 margin:0;
 }
 body{
-background:aliceblue;
+
 }
 
 #texto{
@@ -26,10 +26,10 @@ align-items: center;
 #topo{
 
 
-box-shadow: 10px 5px 5px black;
+box-shadow: 5px 5px 10px silver;
 
 
-border: solid 2px black;
+
 align-items: center;
 width:100%;
 height:200px;
@@ -57,7 +57,7 @@ height:800px;
   background:#4f4f4f;
  border: 2px black;
  align-items: center;
-box-shadow: -10px -5px 5px black;
+box-shadow: -5px -5px 10px silver;
 } 
   
   
