@@ -73,8 +73,8 @@ vertical-align: middle;
 }
 #copy{
  
-align-items: center;
-vertical-align: middle;
-margin: 0 auto;
+align-items:  !important;
+vertical-align: !important;
+margin: 0 auto !important;
 }
   
