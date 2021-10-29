@@ -58,7 +58,7 @@ vertical-align: middle!important;
  border: 2px black;
  align-items: center!important;
 box-shadow: -5px -5px 5px silver;
-
+justify-content: center; 
 color:white !important;
  
 } 
