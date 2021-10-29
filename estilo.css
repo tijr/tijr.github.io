@@ -35,7 +35,7 @@ height:200px;
 background:black;
 
 
-    margin: 0 auto
+margin: 0 auto
  
     
 }
@@ -55,7 +55,7 @@ height:800px;
   height:100px;
   background:#4f4f4f;
  border: 2px black;
- align-items: center;
+ align-items: center!important;
 box-shadow: -5px -5px 5px silver;
  vertical-align: middle!important;
 color:white !important;
